@@ -1,16 +1,84 @@
-## Hi there 👋
+# 👋 Hi, I'm **Deepanshi Tomar** 
 
-<!--
-**Deepa-nshi/Deepa-nshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech in Information Technology** | 🏫 IPEC Shahibabad  
+📍 Uttar Pradesh, India  
+📧 [deepanshitomarup@gmail.com](mailto:deepanshitomarup@gmail.com)  
+📱 +91-9958256432  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Tools
+
+- **Languages**:  
+  ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) 
+  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) 
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+- **Frameworks & Libraries**:  
+  ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) 
+  ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) 
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) 
+  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node-dot-js&logoColor=white)
+
+- **Databases**:  
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+
+- **Other Skills**:  
+  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) 
+  ![Data Structures](https://img.shields.io/badge/Data%20Structures-Important-orange)
+
+---
+
+## 💼 Experience
+
+- **Backend Developer Intern**  
+  🏢 *National Informatics Centre*  
+  ⏳ June 2023 - August 2023  
+  - Built RESTful APIs using Django  
+  - Managed databases with custom operations
+
+---
+
+## 🛠️ Projects
+
+- **📝 [Quiz App](#)**  
+  An interactive quiz application that provides users with various quizzes and tracks their scores.
+![Screenshot 2024-09-12 131624](https://github.com/user-attachments/assets/0011ed92-d209-45b9-b46c-555788529137)
+
+- **☁️ [Weather Website](#)**  
+  Displays current weather info, including temperature, conditions, humidity, etc.
+![Screenshot 2024-09-12 132750](https://github.com/user-attachments/assets/22fb1a3e-3963-4a14-bbce-c8efa6ea18dc)
+
+- **🎥 [Netflix Clone](#)**  
+  A React.js-based Netflix clone with dynamic movie listings.![Screenshot 2024-09-12 131953](https://github.com/user-attachments/assets/fa52f4fe-1138-476c-a5c5-e339457e80a8)
+
+
+- **💬 [Chat App](#)**  
+  A real-time chat app with user authentication and message history.
+![Screenshot 2024-09-12 132457](https://github.com/user-attachments/assets/0a93df6a-78f0-4985-8fe3-c19aaf2576f3)
+
+---
+
+## 🎓 Education
+
+- **B.Tech in Information Technology** (2021-2025)  
+  *IPEC Shahibabad*  
+  **CGPA**: 7.3/10 (Expected)
+
+---
+
+## 📜 Certifications
+
+- **AI and Data Skills** by YBI  
+- **Advanced Python** by LinkedIn  
+- **Machine Learning** by Softpro India
+
+---
+
+## 🔗 Connect with Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Deepa-nshi) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepanshi-tomar-602904278/)
+
