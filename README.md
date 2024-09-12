@@ -1,7 +1,9 @@
 # 👋 Hi, I'm **Deepanshi Tomar** 
-![deep](https://github.com/user-attachments/assets/f3151e23-3650-4863-bd2a-e9f12db7143b)
+**A passionate frontend developer from India**
 
 
+
+![it-will-be-7458c93b2a](https://github.com/user-attachments/assets/8e9a014b-b1fc-4762-8a9e-cc37c58ceb84)
 
 
 
