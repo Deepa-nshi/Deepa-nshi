@@ -57,9 +57,11 @@
  An interactive quiz application that provides users with various quizzes and tracks their scores.
  ![Screenshot 2024-09-12 131624](https://github.com/user-attachments/assets/48b26b95-5645-4db9-80a2-6bce3b7c4610)
 
-- **☁️ [Weather Website](#)**  
-  Displays current weather info, including temperature, conditions, humidity, etc.
-![Screenshot 2024-09-12 132750](https://github.com/user-attachments/assets/3276fbb1-7202-483f-a887-43f879f2c7b6)
+- **🎯 Stock Predictor: Your Gateway to Smarter Investments!(#)**  
+📊 Analyze, Predict, and Invest Wisely – Powered by Machine Learning!  
+🔍 Get Insights on Stock Trends with advanced moving averages 📈📉 
+![stock](https://github.com/user-attachments/assets/e8585826-05bb-42f1-9562-fad12798a547)
+
 
 
 - **🎥 [Netflix Clone](#)**  
